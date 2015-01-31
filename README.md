@@ -41,7 +41,7 @@ And to your app/assets/stylesheets/application.css
 ```
 
 ## Example
-You don't need any special markup. All you need is to wrap your divs inside the container element <ul id="scroller">. ID "scroller" is mandatory to apply proper styles that come from owl.carousel.css file.
+You don't need any special markup. All you need is to wrap your divs inside the container element <ul id="scroller">.ID "scroller" is mandatory to apply proper styles that come from owl.carousel.css file.
 
 ```html
 <ul id="scroller">
