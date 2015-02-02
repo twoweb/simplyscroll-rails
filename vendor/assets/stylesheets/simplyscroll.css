@@ -59,7 +59,7 @@ Note all DIVs are generated and should not be hard-coded
 	
 	.simply-scroll-btn {
 		position: absolute;
-		background-image: url(../images/buttons.png);
+		background-image: url(buttons.png);
 		width: 42px;
 		height: 44px;
 		z-index:3;
