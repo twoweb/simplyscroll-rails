@@ -1,5 +1,6 @@
 # SimplyScroll Rails Gem
 
+For ruby ~> 1.9.3
 
 ## Installation
 
