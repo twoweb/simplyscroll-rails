@@ -35,11 +35,19 @@ Or for the minified version
     //= require jquery.simplyscroll-min
 ```
 
-And to your app/assets/stylesheets/application.css
+And to your app/assets/stylesheets/application.css.sass or application.css.scss
+
 
 ```
-    @import simplyscroll.css
+    @import simplyscroll
 ```
+
+Or application.css:
+
+```
+    *= require simplyscroll
+```
+
 
 ## Example
 You don't need any special markup. All you need is to wrap your uls inside the container element. ID "scroller" is mandatory to apply proper styles that come from simplyscroll.css file.
